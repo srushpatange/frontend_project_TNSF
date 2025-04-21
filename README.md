@@ -1,1 +1,1 @@
-# frontend_project_TNSF
+# dice-challenge-game
